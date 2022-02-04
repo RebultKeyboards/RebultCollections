@@ -1,0 +1,20 @@
+{
+    "name":"RS Durian Artisan Keycap FnF/200",
+    "description":"FnF unit of Royal Selangor Artisan Keycap",
+    "image":"https://github.com/RebultKeyboards/RebultCollections/raw/main/1.jpg",
+    "external_url":"https://rebultkeyboards.com/",
+    "attributes":[
+        {
+            "trait_type":"Collection",
+            "value":"Royal Selangor Durian Artisan Keycap"
+        },
+        {
+            "trait_type":"Material",
+            "value":"Cast Pewter"
+        },
+        {
+            "trait_type":"Finish",
+            "value":"Satin"
+        }
+    ]
+}
